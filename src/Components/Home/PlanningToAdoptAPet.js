@@ -4,7 +4,7 @@ import Card from "./Card";
 const PlanningToAdoptAPet = () => {
   return (
     <div className="planning-container">
-      <h1>Why should I choose PetHub?</h1>
+      <h1>Why should you choose PetHub?</h1>
       <div className="boxes-container">
         <Card
           title="Commitment to Animal Welfare"
